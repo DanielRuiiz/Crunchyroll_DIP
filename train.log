@@ -1,0 +1,249 @@
+2019-04-22 23:18:33,519:INFO: Loading datasets...
+2019-04-22 23:18:45,999:INFO: Building the model...
+2019-04-22 23:18:46,057:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-22 23:19:18,884:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-22 23:19:19,528:INFO: Training....
+2019-04-22 23:19:19,614:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-22 23:47:50,983:INFO: <keras.callbacks.History object at 0x000001ADA88049B0>
+2019-04-22 23:52:39,518:INFO: Loading datasets...
+2019-04-22 23:52:47,851:INFO: Building the model...
+2019-04-22 23:52:47,896:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-22 23:52:49,147:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-22 23:52:49,673:INFO: Training....
+2019-04-22 23:52:49,761:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-23 13:17:52,831:INFO: Loading datasets...
+2019-04-23 13:17:54,357:INFO: Building the model...
+2019-04-23 13:17:54,408:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-23 13:17:55,801:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-23 13:17:56,380:INFO: Training....
+2019-04-23 13:17:56,459:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-23 13:50:39,660:INFO: Loading datasets...
+2019-04-23 13:50:41,145:INFO: Building the model...
+2019-04-23 13:50:41,208:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-23 13:50:42,484:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-23 13:50:43,006:INFO: Training....
+2019-04-23 13:50:43,086:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-23 14:19:12,442:INFO: Loading datasets...
+2019-04-23 14:19:13,941:INFO: Building the model...
+2019-04-23 14:19:13,998:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-23 14:19:15,276:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-23 14:19:15,805:INFO: Training....
+2019-04-23 14:19:15,878:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-23 14:48:33,366:INFO: train loss: [0.11077423404683084, 0.0098794973820594, 0.0034391944999715277]
+2019-04-23 14:48:33,366:INFO: val loss: [0.005909584435250829, 0.0015388342538191116, 0.0007147957050405881]
+2019-04-23 14:48:33,366:INFO: train accuracy: [0.9693627450980392, 1.0, 1.0]
+2019-04-23 14:48:33,382:INFO: val accuracy: [1.0, 1.0, 1.0]
+2019-04-23 14:53:55,318:INFO: Loading datasets...
+2019-04-23 14:54:48,497:INFO: Building the model...
+2019-04-23 14:54:48,546:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-23 14:54:49,812:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-23 14:54:50,353:INFO: Training....
+2019-04-23 14:54:50,436:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-23 15:22:11,078:INFO: train loss: [0.7355318116206749, 0.7333472523034787, 0.7414120692832797]
+2019-04-23 15:22:11,099:INFO: val loss: [0.7445090565026975, 0.6956645367192287, 0.6952609934058844]
+2019-04-23 15:22:11,099:INFO: train accuracy: [0.4877450992079342, 0.5061274498116737, 0.45588235294117646]
+2019-04-23 15:22:11,099:INFO: val accuracy: [0.5245098033372093, 0.5196078419685364, 0.5686274509803921]
+2019-04-23 15:25:28,084:INFO: Loading datasets...
+2019-04-23 15:25:36,808:INFO: Building the model...
+2019-04-23 15:25:36,860:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-23 15:25:38,118:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-23 15:25:38,658:INFO: Training....
+2019-04-23 15:25:38,744:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-24 20:36:24,249:INFO: Loading datasets...
+2019-04-24 20:36:49,424:INFO: Building the model...
+2019-04-24 20:36:49,484:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-24 20:36:50,866:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-24 20:36:51,433:INFO: Training....
+2019-04-24 20:36:51,516:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-24 22:01:05,047:INFO: train loss: [0.7324403185470432, 0.7425872087478638, 0.7255822174689349, 0.7261101977497924, 0.7269082957623052, 0.730709549258737, 0.7156708439191183, 0.725478285667943, 0.7001757002344319, 0.7096081189080781]
+2019-04-24 22:01:05,047:INFO: val loss: [0.7340511480967203, 0.6986918461089041, 0.6918133754356235, 0.6930198868115743, 0.7141694262915966, 0.712489713640774, 0.7019006212552389, 0.6975856306506139, 0.6938843505055297, 0.6949271138976602]
+2019-04-24 22:01:05,047:INFO: train accuracy: [0.5049019601999545, 0.48774509687049716, 0.4840686280353397, 0.4889705876509349, 0.49264705882352944, 0.49387254901960786, 0.5134803921568627, 0.49142156921181024, 0.5379901949097129, 0.5306372543176016]
+2019-04-24 22:01:05,047:INFO: val accuracy: [0.47058823412539913, 0.5245098033372093, 0.553921568627451, 0.5196078425528956, 0.47549019490971284, 0.47549019490971284, 0.47549019490971284, 0.5245098033372093, 0.495098038631327, 0.5245098033372093]
+2019-04-24 22:34:23,043:INFO: Loading datasets...
+2019-04-24 22:34:31,981:INFO: Building the model...
+2019-04-24 22:34:32,040:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-24 22:34:33,347:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-24 22:34:33,873:INFO: Training....
+2019-04-24 22:34:33,953:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-24 22:43:01,436:INFO: train loss: [0.7304271237522948]
+2019-04-24 22:43:01,436:INFO: val loss: [0.7001977562904358]
+2019-04-24 22:43:01,437:INFO: train accuracy: [0.4889705876509349]
+2019-04-24 22:43:01,437:INFO: val accuracy: [0.5245098033372093]
+2019-04-24 22:54:13,633:INFO: Loading datasets...
+2019-04-24 22:54:22,372:INFO: Building the model...
+2019-04-24 22:54:22,415:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-24 22:54:23,715:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-24 22:54:24,238:INFO: Training....
+2019-04-24 22:54:24,320:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-24 23:12:06,682:INFO: Loading datasets...
+2019-04-24 23:12:15,039:INFO: Building the model...
+2019-04-24 23:12:15,082:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-24 23:12:16,352:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-24 23:12:16,862:INFO: Training....
+2019-04-24 23:12:16,956:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-25 02:27:32,803:INFO: Loading datasets...
+2019-04-25 02:27:41,471:INFO: Building the model...
+2019-04-25 02:27:41,512:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-25 02:27:42,790:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-25 02:27:43,311:INFO: Training....
+2019-04-25 02:27:43,391:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-30 01:50:06,767:INFO: Loading datasets...
+2019-04-30 01:50:19,939:INFO: Building the model...
+2019-04-30 01:50:20,002:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 01:50:21,333:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 01:50:21,858:INFO: Training....
+2019-04-30 01:50:21,946:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-30 01:51:09,458:INFO: Loading datasets...
+2019-04-30 01:51:17,814:INFO: Building the model...
+2019-04-30 01:51:17,868:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 01:51:19,154:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 01:51:19,671:INFO: Training....
+2019-04-30 01:51:19,751:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-30 02:02:11,155:INFO: Loading datasets...
+2019-04-30 02:02:20,884:INFO: Building the model...
+2019-04-30 02:02:20,927:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 02:02:22,209:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 02:02:22,715:INFO: Training....
+2019-04-30 02:02:22,805:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-30 11:50:55,469:INFO: Loading datasets...
+2019-04-30 11:51:04,234:INFO: Building the model...
+2019-04-30 11:51:04,278:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 11:51:05,553:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 11:51:06,077:INFO: Training....
+2019-04-30 11:51:06,162:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-30 12:45:50,360:INFO: Loading datasets...
+2019-04-30 12:45:58,592:INFO: Building the model...
+2019-04-30 12:45:58,643:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 12:45:59,920:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 12:46:45,350:INFO: Loading datasets...
+2019-04-30 12:46:54,328:INFO: Building the model...
+2019-04-30 12:46:54,376:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 12:46:55,778:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 12:47:20,686:INFO: Loading datasets...
+2019-04-30 12:47:29,497:INFO: Building the model...
+2019-04-30 12:47:29,552:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 12:47:30,866:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 12:47:31,430:INFO: Training....
+2019-04-30 12:47:31,511:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-30 12:50:09,073:INFO: Loading datasets...
+2019-04-30 12:50:17,896:INFO: Building the model...
+2019-04-30 12:50:17,948:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-30 12:50:19,328:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-04-30 12:50:19,873:INFO: Training....
+2019-04-30 12:50:19,958:WARNING: From C:\Users\Ruiz\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.

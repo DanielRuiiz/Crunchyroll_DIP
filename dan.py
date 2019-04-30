@@ -166,7 +166,7 @@ def checkDir(directory):
 #   identifier[string] = output video file name that identifies sequence.
 #   person[string] = which person does this data belong to (PT, PD, PN).
 def CatFrames(frames, identifier, person):
-    output_path = '\Dataset\%s\RawData\Base\%s.avi' % (person, identifier)
+    output_path = '\Dataset\%s\RawData\%s.avi' % (person, identifier)
     dir_path = os.path.dirname(os.path.realpath(__file__))
     dir_path = '%s%s' % (dir_path, output_path)
     print(dir_path)

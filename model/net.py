@@ -7,6 +7,7 @@ from keras.layers import LSTM, TimeDistributed
 from keras.layers import Conv2D, MaxPooling2D, Dropout
 import os
 from keras.applications import vgg16
+from keras import optimizers
 
 
 class seq2class():
@@ -33,9 +34,13 @@ class seq2class():
 
         h2 = TimeDistributed(vggmodel)(x)
         # print(h2.shape)
+        # Newly added 2d cnn
+        h2 = TimeDistributed(Conv2D(filters=64, kernel_size=(3,3), activation='relu'))(h2)
 
+        h2 = TimeDistributed(MaxPooling2D(pool_size=(2, 2)))(h2)
+        ####################
         h2 = TimeDistributed(Flatten())(h2)
-
+        # This adds so many params
         # h2 = TimeDistributed(Dense(output_dim=4096, activation='relu'))(h2)
 
         h2 = TimeDistributed(Dense(output_dim=1024, activation='relu'))(h2)
@@ -64,7 +69,8 @@ class seq2class():
     # classifier with sigmoid activation for multilabel
         # model.add(Dense(1, activation='sigmoid'))
         # # Add more ####################################################
-        model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+        adam = optimizers.adam(lr=0.01)
+        model.compile(loss='binary_crossentropy', optimizer=adam, metrics=['accuracy'])
 
         return model
 

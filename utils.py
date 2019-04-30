@@ -53,19 +53,20 @@ class Plotting():
         plt.legend()
 
         plt.show()
+        plt.savefig('loss_graph.png', bbox_inches='tight')
 
     def plot_accuracy(self):
         plt.clf()   # clear figure
 
-        plt.plot(self.epochs, self.acc, 'bo', label='Training acc')
-        plt.plot(self.epochs, self.val_acc, 'b', label='Validation acc')
+        plt.plot(self.epochs, self.acc, label='Training acc')
+        plt.plot(self.epochs, self.val_acc, label='Validation acc')
         plt.title('Training and validation accuracy')
         plt.xlabel('Epochs')
         plt.ylabel('Loss')
         plt.legend()
 
         plt.show()
-
+        plt.savefig('acc_graph.png', bbox_inches='tight')
 
 if __name__ == "__main__":
     import matplotlib
@@ -74,4 +75,5 @@ if __name__ == "__main__":
     plt.scatter([0.3, 3.8, 1.2, 2.5], [11, 25, 9, 26], color='darkgreen', marker='^')
     plt.xlim(0.5, 4.5)
     plt.show()
+    plt.savefig('all.png',bbox_inches='tight')
     # plt.show()
